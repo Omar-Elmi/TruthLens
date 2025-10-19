@@ -1,25 +1,27 @@
 TruthLens: Misinformation Detection Platform
 Overview
 
-TruthLens is an AI-powered web application inspired by my Cardiff University internship, where I analyzed large-scale social media data to detect misinformation and uncover trends in public sentiment. TruthLens allows users to input any text and receive a detailed analysis including:
+TruthLens is an AI-powered web application inspired by my Cardiff University internship, where I analyzed large-scale social media data to detect misinformation and identify trends in public sentiment.
 
-Misinformation risk score (0–100)
+Users can input any text and receive a detailed analysis including:
 
-Sentiment detection (positive, negative, neutral)
+Misinformation Risk Score (0–100)
 
-Topic identification (3–5 key topics)
+Sentiment Detection (Positive, Negative, Neutral)
 
-Keyword extraction (most frequent words and phrases)
+Topic Identification (3–5 Key Topics)
 
-This platform helps users quickly evaluate the reliability of textual information, uncover underlying topics, and track trends over time.
+Keyword Extraction (Most Frequent Words and Phrases)
+
+TruthLens helps users quickly assess the reliability of information, uncover hidden topics, and track trends over time.
 
 Key Features
 
-Real-time text analysis using custom natural language processing algorithms
+Real-time text analysis using custom NLP algorithms
 
-Interactive visualizations with Recharts for clear insights
+Interactive visualizations with Recharts
 
-Historical storage of all analyses for trend tracking
+Historical storage of analyses for trend tracking
 
 Modern, responsive UI with indigo/violet gradient design
 
@@ -35,15 +37,15 @@ Design: Fully responsive, modern gradient UI
 
 Highlights for Employers
 
-Built a full-stack web application inspired by professional experience analyzing large social media datasets
+Developed a full-stack web application inspired by real-world social media data analysis
 
-Applied advanced natural language processing techniques for real-time text evaluation
+Applied advanced NLP techniques for real-time misinformation detection and sentiment analysis
 
-Delivered interactive data visualizations and user-friendly UX design
+Delivered interactive data visualizations and an intuitive user interface
 
-Demonstrated skills in cloud-based infrastructure, database integration, and AI implementation
+Demonstrated expertise in cloud infrastructure, database integration, and AI implementation
 
-Showcased ability to translate internship experience into a practical, standalone application
+Translated internship experience into a practical, standalone application
 
 Future Enhancements
 
