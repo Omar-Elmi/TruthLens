@@ -1,73 +1,54 @@
-# Welcome to your Lovable project
+TruthLens: Misinformation Detection Platform
+Overview
 
-## Project info
+TruthLens is an AI-powered web application inspired by my Cardiff University internship, where I analyzed large-scale social media data to detect misinformation and uncover trends in public sentiment. TruthLens allows users to input any text and receive a detailed analysis including:
 
-**URL**: https://lovable.dev/projects/863e91d2-a15e-4c7e-aeca-f6089eb902cb
+Misinformation risk score (0–100)
 
-## How can I edit this code?
+Sentiment detection (positive, negative, neutral)
 
-There are several ways of editing your application.
+Topic identification (3–5 key topics)
 
-**Use Lovable**
+Keyword extraction (most frequent words and phrases)
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/863e91d2-a15e-4c7e-aeca-f6089eb902cb) and start prompting.
+This platform helps users quickly evaluate the reliability of textual information, uncover underlying topics, and track trends over time.
 
-Changes made via Lovable will be committed automatically to this repo.
+Key Features
 
-**Use your preferred IDE**
+Real-time text analysis using custom natural language processing algorithms
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Interactive visualizations with Recharts for clear insights
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Historical storage of all analyses for trend tracking
 
-Follow these steps:
+Modern, responsive UI with indigo/violet gradient design
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Technologies Used
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Frontend: React, TypeScript, Recharts
 
-# Step 3: Install the necessary dependencies.
-npm i
+Backend / Database: Supabase (cloud-based infrastructure and storage)
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+AI & NLP: Custom-built algorithms for sentiment analysis, keyword extraction, and topic detection
 
-**Edit a file directly in GitHub**
+Design: Fully responsive, modern gradient UI
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Highlights for Employers
 
-**Use GitHub Codespaces**
+Built a full-stack web application inspired by professional experience analyzing large social media datasets
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Applied advanced natural language processing techniques for real-time text evaluation
 
-## What technologies are used for this project?
+Delivered interactive data visualizations and user-friendly UX design
 
-This project is built with:
+Demonstrated skills in cloud-based infrastructure, database integration, and AI implementation
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Showcased ability to translate internship experience into a practical, standalone application
 
-## How can I deploy this project?
+Future Enhancements
 
-Simply open [Lovable](https://lovable.dev/projects/863e91d2-a15e-4c7e-aeca-f6089eb902cb) and click on Share -> Publish.
+Expand AI models for multimodal content analysis (text + images)
 
-## Can I connect a custom domain to my Lovable project?
+Add user authentication and personalized dashboards
 
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Integrate automated alerts for high-risk misinformation content
