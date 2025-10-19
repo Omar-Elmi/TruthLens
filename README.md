@@ -34,5 +34,33 @@ Delivered interactive data visualisations and an intuitive user interface
 Demonstrated expertise in cloud infrastructure, database integration, and AI implementation
 Translated internship experience into a practical, standalone application
 
+How to Use
 
+You can run TruthLens locally or deploy it on a server for internal use.
+
+Prerequisites:
+
+Node.js (v18+)
+npm or yarn
+Supabase account (for backend and database)
+
+Clone the repository
+Install dependencies
+- npm install
+
+Create a .env file in the project root with your Supabase credentials:
+
+REACT_APP_SUPABASE_URL=your_supabase_url
+REACT_APP_SUPABASE_ANON_KEY=your_anon_key
+
+Start the development server:
+npm start
+
+Open in your browser:
+Go to http://localhost:3000 to access the TruthLens interface and begin analyzing text.
+
+Deployment:
+
+The app can be hosted on platforms like Vercel, Netlify, or any React-compatible server.
+Ensure your Supabase credentials are properly configured for the production environment.
 
